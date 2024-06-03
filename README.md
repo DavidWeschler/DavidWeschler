@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DavidWeschler/DavidWeschler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Science student with a passion for programming and problem-solving. Here are a few things about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying at Hadassah Academic College.
+- 🌱 I’m currently learning and improving my skills in C, C++, and Python.
+- 🤖 I’m interested in software development, algorithms, and AI.
+- 💼 I’m looking forward to internships and collaborative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- 📫 Email: davidweschler8@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/david-weschler/
+
+Feel free to reach out if you'd like to collaborate on a project or just have a chat!
+
+![David Weschler's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
