@@ -12,5 +12,3 @@ I'm a second-year Computer Science student with a passion for programming and pr
 - 💼 LinkedIn: https://www.linkedin.com/in/david-weschler/
 
 Feel free to reach out if you'd like to collaborate on a project or just have a chat!
-
-![David Weschler's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
